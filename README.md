@@ -293,14 +293,6 @@ thiru.html
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/caa6cb46-a933-443f-bf92-dbcd14846456)
-![image](https://github.com/user-attachments/assets/793c07e1-fe4e-4573-89f3-ea74e52c3309)
-
-![image](https://github.com/user-attachments/assets/655d1304-7f15-49be-a5d0-c24ee47832ee)
-![image](https://github.com/user-attachments/assets/cb270030-8a85-463a-9b1c-eaf96364866b)
-![image](https://github.com/user-attachments/assets/86f6a3b5-3f51-4b44-aea0-0a7bea4eadaf)
-![image](https://github.com/user-attachments/assets/21b7930b-b399-485c-9256-fb53b83bba41)
-
 
 
 
