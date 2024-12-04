@@ -26,7 +26,10 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+<<<<<<< HEAD
 map.html
+=======
+>>>>>>> 630ffd8c420df15eebe6c20d155ab50f718ba1ef
 <html>
 <head>
 <title>My City</title>
@@ -52,6 +55,7 @@ map.html
 </center> 
 
 </body>
+<<<<<<< HEAD
 </html> 
 
 hosp.html
@@ -282,11 +286,24 @@ thiru.html
         <p>Thirukalimedu is a serene village located in Tamil Nadu, known for its rich cultural heritage and historical significance. The place is famous for the ancient temple dedicated to Lord Shiva, attracting devotees from surrounding regions. The village is surrounded by beautiful landscapes and offers a peaceful retreat away from urban bustle. Thirukalimedu also hosts annual religious festivals, which bring the community together. The vibrant traditions and scenic beauty make it a must-visit location for culture and history enthusiasts.</p>
     </div>
 </body>
+=======
+>>>>>>> 630ffd8c420df15eebe6c20d155ab50f718ba1ef
 </html>
 
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/caa6cb46-a933-443f-bf92-dbcd14846456)
+![image](https://github.com/user-attachments/assets/793c07e1-fe4e-4573-89f3-ea74e52c3309)
+
+![image](https://github.com/user-attachments/assets/655d1304-7f15-49be-a5d0-c24ee47832ee)
+![image](https://github.com/user-attachments/assets/cb270030-8a85-463a-9b1c-eaf96364866b)
+![image](https://github.com/user-attachments/assets/86f6a3b5-3f51-4b44-aea0-0a7bea4eadaf)
+![image](https://github.com/user-attachments/assets/21b7930b-b399-485c-9256-fb53b83bba41)
+
+
+
+
 
 ![alt text](<Screenshot (31).png>)
 ![alt text](<Screenshot (32).png>)
