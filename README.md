@@ -42,7 +42,7 @@ map.html
 <font color="blue"><b>PARANTHAMAN (212224040232)</b></font>
 </h3>
 <center>
-    <img src="Screenshot 2024-11-26 080856.png" usemap="#image-map">
+    <img src="Screenshot 2025-04-22 080856.png" usemap="#image-map">
 
     <map name="image-map">
         <area target="" alt="narbhavi hospital" title="narbhavi hospital" href="hosp.html" coords="66,276,225,339" shape="rect">
