@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 04/12/2024
+## Date: 23/04/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -39,7 +39,7 @@ map.html
 <font color="red"><b>kanchipuram</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>aaron alex p (24005669)</b></font>
+<font color="blue"><b>PARANTHAMAN (212224040232)</b></font>
 </h3>
 <center>
     <img src="Screenshot 2024-11-26 080856.png" usemap="#image-map">
@@ -293,15 +293,12 @@ thiru.html
 ```
 
 ## OUTPUT
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](6.png)
 
-
-
-
-![alt text](<Screenshot (31).png>)
-![alt text](<Screenshot (32).png>)
-![alt text](<Screenshot (33).png>)
-![alt text](<Screenshot (34).png>)
-![alt text](<Screenshot (35).png>)
-![alt text](<Screenshot (37).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
